@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|c:\\users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|solutionrelative:data\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|c:\\users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\services\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|solutionrelative:services\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|c:\\users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\services\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|solutionrelative:services\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|c:\\users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|c:\\users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\w9-assignment-template.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|solutionrelative:w9-assignment-template.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|c:\\users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|c:\\users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D2E5F-4A0D-4C24-BFE3-657AF5C3B0E1}|W9-assignment-template.csproj|solutionrelative:models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\Services\\Menu.cs",
+              "RelativeDocumentMoniker": "Services\\Menu.cs",
+              "ToolTip": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\Services\\Menu.cs",
+              "RelativeToolTip": "Services\\Menu.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:55:07.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\Services\\GameEngine.cs",
+              "RelativeDocumentMoniker": "Services\\GameEngine.cs",
+              "ToolTip": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\Services\\GameEngine.cs",
+              "RelativeToolTip": "Services\\GameEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:54:57.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:54:10.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "W9-assignment-template",
+              "DocumentMoniker": "C:\\Users\\noahj\\Source\\Repos\\w9-intro-to-entity-framework-nkelly33-1\\W9-assignment-template.csproj",
+              "RelativeDocumentMoniker": "W9-assignment-template.csproj",
+              "ToolTip": "C:\\Users\\noahj\\Source\\Repos\\w9-intro-to-entity-framework-nkelly33-1\\W9-assignment-template.csproj",
+              "RelativeToolTip": "W9-assignment-template.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T23:58:03.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameContext.cs",
+              "DocumentMoniker": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\Data\\GameContext.cs",
+              "RelativeDocumentMoniker": "Data\\GameContext.cs",
+              "ToolTip": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\Data\\GameContext.cs",
+              "RelativeToolTip": "Data\\GameContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:31:12.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:31:07.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Models\\Character.cs",
+              "ToolTip": "C:\\Users\\noahj\\source\\repos\\w9-intro-to-entity-framework-nkelly33-1\\Models\\Character.cs",
+              "RelativeToolTip": "Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:31:03.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
